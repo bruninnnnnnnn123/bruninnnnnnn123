@@ -2,7 +2,7 @@
 
 Meu nome é Bruno Garcia
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javaScript
 - utilizo esse espaco para minha organizacao e compatilhamento dos meus projetos desenvolvidos
 
@@ -13,3 +13,4 @@ Meu nome é Bruno Garcia
  @brunogarciaa_
 
 
+![](https://media1.tenor.com/m/PLQfLdZ-UC4AAAAC/hasbulla-money.gif)
